@@ -1,6 +1,26 @@
 kerberoast
 ==========
 
+该项目原地址：
+
+```
+https://github.com/nidem/kerberoast
+```
+
+在进行尝试执行解密kirbi中的密码时发现有的库已经过时，然后进行修改并重新上传
+
+相较于原项目该项目重新修改了kerberos.py这个模块
+
+该项目使用Python3进行运行
+
+测试在Windows下如下图。
+
+![image-20250616151547386](./README.assets/image-20250616151547386.png)
+
+
+
+------
+
 Kerberoast is a series of tools for attacking MS Kerberos implementations. Below is a brief overview of what each tool does.
 
 Extract all accounts in use as SPN using built in MS tools
